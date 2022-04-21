@@ -1,6 +1,6 @@
 .navbar{
-    background-color: darkslategrey;
+    background-color: rgb(17, 17, 17); 
 }
-.navbar-nav{
-    text-align: center;
+.nav-item{
+    margin: 10px;
 }
