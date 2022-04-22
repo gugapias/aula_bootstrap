@@ -1,22 +1,29 @@
+body{
+    background-color: yellow;
+}
 .navbar{
-    background-color: rgb(17, 17, 17); 
+    background-color: rgb(17, 17, 17);
+
 }
 .nav-item{
     margin: 10px;
 }
 .oncapintada{
-    background-color: yellow;
-    border: 4px solid black;
+    background-color: black;
+    border: 4px solid white;
+    color:ghostwhite;
 }
 .margin{
     margin-top: 4px;
     padding-bottom:4px ;
 }
 .puma{
-    background-color: yellow;
-    border: 4px solid black;
+    background-color: black;
+    border: 4px solid white;
+    color:ghostwhite;
 }
 .gueopardo{
-    background-color: yellow;
-    border: 4px solid black;
+    background-color: black;
+    border: 4px solid white;
+    color:ghostwhite;
 }
